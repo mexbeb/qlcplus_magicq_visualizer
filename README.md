@@ -1,6 +1,6 @@
 # QLC+ 4.12.6 and MagicQ 3D Visualizer via ArtNet on the same Wi-Fi network
 
-## A guide on how to control your fixtures with QLC+ 4 and use the MagicQ built-in visualizer
+## A guide on how to use QLC+ 4 with the MagicQ built-in visualizer
 
 ### Software used:
 
